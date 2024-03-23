@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Home",
+    "url": "/dashboard",
+    "icon": "Globe"
+  },
+  {
+    "name": "Events",
+    "url": "/events",
+    "icon": "CalendarDays"
+  },
+  {
+    "name": "Tournaments",
+    "url": "/tournaments",
+    "icon": "Trophy"
+  },
+  {
+    "name": "Leagues",
+    "url": "/leagues",
+    "icon": "Flag"
+  },
+  {
+    "name": "Watch",
+    "url": "/watch",
+    "icon": "PlaySquare"
+  },
+  {
+    "name": "Redeem",
+    "url": "/",
+    "icon": "Gift"
+  },
+  {
+    "name": "Leaderboards",
+    "url": "/leaderboards",
+    "icon": "BarChart4"
+  },
+  {
+    "name": "Settings",
+    "url": "/settings",
+    "icon": "Cog"
+  }
+]

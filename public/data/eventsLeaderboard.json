@@ -1,0 +1,1221 @@
+[
+  {
+    "eventName": "Influencer Appreciation Night",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "Completed"
+  },
+  {
+    "eventName": "Longest Drive Shootout",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "Completed"
+  },
+  {
+    "eventName": "PB DRGC H2H",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "Upcoming"
+  },
+  {
+    "eventName": "Addidas - CTTP",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "Completed"
+  },
+  {
+    "eventName": "Palm Beach Vs DRGC H2H",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "Upcoming"
+  },
+  {
+    "eventName": "Ladies Night",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "In Progress"
+  },
+  {
+    "eventName": "Walk-On Longest Drive",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "Upcoming"
+  },
+  {
+    "eventName": "Singles Night",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "In Progress"
+  },
+  {
+    "eventName": "Good Good - Scramble",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "Upcoming"
+  },
+  {
+    "eventName": "Palm Beach Vs Dobson Ranch H2H",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "Upcoming"
+  },
+  {
+    "eventName": "Influencer Appreciation Night",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "Completed"
+  },
+  {
+    "eventName": "Longest Drive Shootout",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "Completed"
+  },
+  {
+    "eventName": "PB DRGC H2H",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "Upcoming"
+  },
+  {
+    "eventName": "Addidas - CTTP",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "Completed"
+  },
+  {
+    "eventName": "Influencer Appreciation Night",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "Completed"
+  },
+  {
+    "eventName": "Longest Drive Shootout",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "Completed"
+  },
+  {
+    "eventName": "PB DRGC H2H",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "Upcoming"
+  },
+  {
+    "eventName": "Addidas - CTTP",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "Completed"
+  },
+  {
+    "eventName": "Palm Beach Vs DRGC H2H",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "Upcoming"
+  },
+  {
+    "eventName": "Ladies Night",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "In Progress"
+  },
+  {
+    "eventName": "Walk-On Longest Drive",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "Upcoming"
+  },
+  {
+    "eventName": "Singles Night",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "In Progress"
+  },
+  {
+    "eventName": "Good Good - Scramble",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "Upcoming"
+  },
+  {
+    "eventName": "Palm Beach Vs Dobson Ranch H2H",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "Upcoming"
+  },
+  {
+    "eventName": "Influencer Appreciation Night",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "Completed"
+  },
+  {
+    "eventName": "Longest Drive Shootout",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "Completed"
+  },
+  {
+    "eventName": "PB DRGC H2H",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "Upcoming"
+  },
+  {
+    "eventName": "Addidas - CTTP",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "Completed"
+  },
+  {
+    "eventName": "Influencer Appreciation Night",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "Completed"
+  },
+  {
+    "eventName": "Longest Drive Shootout",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "Completed"
+  },
+  {
+    "eventName": "PB DRGC H2H",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "Upcoming"
+  },
+  {
+    "eventName": "Addidas - CTTP",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "Completed"
+  },
+  {
+    "eventName": "Palm Beach Vs DRGC H2H",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "Upcoming"
+  },
+  {
+    "eventName": "Ladies Night",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "In Progress"
+  },
+  {
+    "eventName": "Walk-On Longest Drive",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "Upcoming"
+  },
+  {
+    "eventName": "Singles Night",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "In Progress"
+  },
+  {
+    "eventName": "Good Good - Scramble",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "Upcoming"
+  },
+  {
+    "eventName": "Palm Beach Vs Dobson Ranch H2H",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "Upcoming"
+  },
+  {
+    "eventName": "Influencer Appreciation Night",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "Completed"
+  },
+  {
+    "eventName": "Longest Drive Shootout",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "Completed"
+  },
+  {
+    "eventName": "PB DRGC H2H",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "Upcoming"
+  },
+  {
+    "eventName": "Addidas - CTTP",
+    "imgUrl": "/t1.jpg",
+    "date": "Mar 1, 2024",
+    "players": [
+      {
+        "name": "player one",
+        "image": "/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t2.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t3.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t4.jpg"
+      },
+      {
+        "name": "player one",
+        "image": "/t5.jpg"
+      }
+    ],
+    "smash_cash": 2500,
+    "status": "Completed"
+  }
+  
+]

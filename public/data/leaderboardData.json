@@ -1,0 +1,250 @@
+[
+  {
+    "imgUrl": "../../public/t1.jpg",
+    "name": "Influencer Appreciation Night",
+    "date": "Feb 6, 2024",
+    "smash_cash": "2500",
+    "status": "Completed",
+    "players": [
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      }
+    ]
+  },
+  {
+    "imgUrl": "../../public/t2.jpg",
+    "name": "Influencer Appreci",
+    "date": "Mar 16, 2024",
+    "smash_cash": "1500",
+    "status": "In Progress",
+    "players": [
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      }
+    ]
+  },
+  {
+    "imgUrl": "../../public/t3.jpg",
+    "name": "Influencer Night",
+    "date": "Feb 6, 2024",
+    "smash_cash": "500",
+    "status": "Upcoming",
+    "players": [
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      }
+    ]
+  },
+  {
+    "imgUrl": "../../public/t4.jpg",
+    "name": "Influencer Night",
+    "date": "Feb 14, 2024",
+    "smash_cash": "600",
+    "status": "Upcoming",
+    "players": [
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      }
+    ]
+  },
+  {
+    "imgUrl": "../../public/t1.jpg",
+    "name": "Influencer Appreciation Night",
+    "date": "Feb 6, 2024",
+    "smash_cash": "2500",
+    "status": "Completed",
+    "players": [
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      }
+    ]
+  },
+  {
+    "imgUrl": "../../public/t2.jpg",
+    "name": "Influencer Appreci",
+    "date": "Mar 16, 2024",
+    "smash_cash": "1500",
+    "status": "In Progress",
+    "players": [
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      }
+    ]
+  },
+  {
+    "imgUrl": "../../public/t3.jpg",
+    "name": "Influencer Night",
+    "date": "Feb 6, 2024",
+    "smash_cash": "500",
+    "status": "Upcoming",
+    "players": [
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      }
+    ]
+  },
+  {
+    "imgUrl": "../../public/t4.jpg",
+    "name": "Influencer Night",
+    "date": "Feb 14, 2024",
+    "smash_cash": "600",
+    "status": "Upcoming",
+    "players": [
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      },
+      {
+        "name": "player one",
+        "imgUrl": "../../public/t1.jpg"
+      }
+    ]
+  }
+]

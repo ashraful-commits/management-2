@@ -1,0 +1,12 @@
+{
+  "/page": "app/page.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/signin/page": "app/signin/page.js",
+  "/not-found": "app/not-found.js",
+  "/leaderboards/page": "app/leaderboards/page.js",
+  "/(dashboard)/dashboard/page": "app/(dashboard)/dashboard/page.js",
+  "/leaderboards/events/page": "app/leaderboards/events/page.js",
+  "/leaderboards/events/[slug]/page": "app/leaderboards/events/[slug]/page.js",
+  "/leaderboards/tournaments/page": "app/leaderboards/tournaments/page.js",
+  "/leaderboards/tournaments/[slug]/page": "app/leaderboards/tournaments/[slug]/page.js"
+}
